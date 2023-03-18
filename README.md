@@ -1,15 +1,20 @@
 Cheuk Pui Lam
 - 
-@feimaomiao
+@feimaomiao  
 
-- UCSC '26 CS/Math  
+- Computer Science major at UCSC, expected graduation year 2026
 
-### Classes Taken:
+### Past Courseworks:
 
-- CSE-30: Abstract Data Types in Python
-- MATH-23A: Vector Calculus
+#### Computer Science
+- Abstract Data Types in Python  
+- Computer Systems and Assembly  
 
-### Currently Studying:
-- CSE-12: Computer Systems and Assembly
-- MATH-23B: Vector Calculus
+#### Mathematics
+- Calculus  
+- Vector Calculus  
 
+### Current/Upcoming courseworks
+- Computer Systems and Programming in C  
+- Discrete Math
+- Linear Algebra
