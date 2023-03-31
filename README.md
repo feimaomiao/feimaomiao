@@ -18,3 +18,5 @@ Cheuk Pui Lam
 - Computer Systems and Programming in C  
 - Discrete Math
 - Linear Algebra
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=feimaomiao&show_icons=true&theme=radical)
