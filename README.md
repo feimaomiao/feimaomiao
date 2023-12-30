@@ -11,6 +11,9 @@ Cheuk Pui Lam
 - Abstract Data Types in Python  
 - Computer Systems and Assembly  
 - Computer Systems and Programming in C
+- Data Structures and Algorithms  
+- Probability and Statistics for Engineers  
+- Computer Architecture  
 
 #### Mathematics
 
@@ -18,16 +21,11 @@ Cheuk Pui Lam
 - Linear Algebra
 - Differential Equations
 - Introduction to Proofs/ Problem solving
-
-### Current Courseworks:
-
-- Data Structures and Algorithms  
-- Probability and Statistics for Engineers  
-- Computer Architecture  
 - Intro to Number Theory  
 
-### Upcoming Coursework:
-
+### Current Courseworks:
 - Principles of Computer Systems Design
 - Foundations of Programming Languages
 - Complex Analysis
+
+<!-- ### Upcoming Coursework: -->
