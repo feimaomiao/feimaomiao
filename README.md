@@ -14,6 +14,8 @@ Cheuk Pui Lam
 - Data Structures and Algorithms  
 - Probability and Statistics for Engineers  
 - Computer Architecture  
+- Principles of Computer Systems Design
+- Foundations of Programming Languages
 
 #### Mathematics
 
@@ -22,10 +24,13 @@ Cheuk Pui Lam
 - Differential Equations
 - Introduction to Proofs/ Problem solving
 - Intro to Number Theory  
+- Complex Analysis
 
 ### Current Courseworks:
-- Principles of Computer Systems Design
-- Foundations of Programming Languages
-- Complex Analysis
+
+- Intro to software engineering  
+- Intro to compiler design  
+- Cryptography  
+- Engineering principles of Electronics  
 
 <!-- ### Upcoming Coursework: -->
