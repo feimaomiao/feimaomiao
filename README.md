@@ -2,7 +2,7 @@ Cheuk Pui Lam
 -  
 @feimaomiao  
 
-- Computer Science and Math major at UCSC (2025? 2026?)
+- Computer Science and Math major at UCSC 
 
 ### Past Courseworks:
 
@@ -33,4 +33,8 @@ Cheuk Pui Lam
 - Cryptography  
 - Engineering principles of Electronics  
 
-<!-- ### Upcoming Coursework: -->
+### Upcoming Coursework:
+
+- Advanced Linear Algebra
+- Introduction to Analysis of Algorithms
+- Algebra
