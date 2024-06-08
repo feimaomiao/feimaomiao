@@ -38,7 +38,6 @@ Cheuk Pui Lam
 - Advanced Linear Algebra
 - Introduction to Analysis of Algorithms
 - Algebra
-<!-- ### Upcoming Coursework: -->
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/iconsumeplutonium/feimaomiao/main/background.png');]{x0000}$}
+- Computer Security
+- Graph Theory
+- Cryptographic Algorithms
