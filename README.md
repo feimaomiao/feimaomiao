@@ -16,6 +16,8 @@ Cheuk Pui Lam
 - Computer Architecture  
 - Principles of Computer Systems Design
 - Foundations of Programming Languages
+- Intro to software engineering  
+- Intro to compiler design  
 
 #### Mathematics
 
@@ -25,19 +27,16 @@ Cheuk Pui Lam
 - Introduction to Proofs/ Problem solving
 - Intro to Number Theory  
 - Complex Analysis
+- Cryptography
 
-### Current Courseworks:
-
-- Intro to software engineering  
-- Intro to compiler design  
-- Cryptography  
-- Engineering principles of Electronics  
+### Current Coursework:
+- Real Analysis
+- Introduction to Analysis of Algorithms
+- Advanced Linear Algebra
 
 ### Upcoming Coursework:
 
-- Advanced Linear Algebra
-- Introduction to Analysis of Algorithms
-- Algebra
 - Computer Security
 - Graph Theory
 - Cryptographic Algorithms
+- Algebra
