@@ -1,42 +1,39 @@
-Cheuk Pui Lam
--  
+# Cheuk Pui Lam
+
 @feimaomiao  
 
-- Computer Science and Math major at UCSC 
+- Computer Science and Math major at UCSC '25  
+- Computer Science Masters Student at UCSC '26  
 
-### Past Courseworks:
+## Past Courseworks
 
-#### Computer Science
+### Computer Science
 
-- Abstract Data Types in Python  
-- Computer Systems and Assembly  
-- Computer Systems and Programming in C
+- Cryptography, Computation on encrypted data
 - Data Structures and Algorithms  
-- Probability and Statistics for Engineers  
 - Computer Architecture  
 - Principles of Computer Systems Design
 - Foundations of Programming Languages
 - Intro to software engineering  
 - Intro to compiler design  
+- Computational Models
+- Computer Security/Hardware Security
+- Distributed Systems
 
-#### Mathematics
+### Mathematics
 
-- Vector Calculus  
-- Linear Algebra
-- Differential Equations
 - Introduction to Proofs/ Problem solving
 - Intro to Number Theory  
-- Complex Analysis
+- Complex Analysis, Real Analysis
 - Cryptography
-
-### Current Coursework:
-- Real Analysis
-- Introduction to Analysis of Algorithms
-- Advanced Linear Algebra
-
-### Upcoming Coursework:
-
-- Computer Security
+- Algebra, Advanced Linear Algebra
 - Graph Theory
-- Cryptographic Algorithms
-- Algebra
+- Intro to Chaos Theory
+
+## Current Courseworks
+
+## Upcoming Coursework
+
+- Data Structures and Algorithms (grad)
+- Formal Methods
+- Computer Architecture
